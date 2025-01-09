@@ -212,7 +212,19 @@ section {
 
 /* ICONS */
 
-.icon {
+.iconIN {
+  margin-top: 1rem;
+  cursor: pointer;
+  height: 2rem;
+  width: 7rem;
+}
+.iconGIT {
+  cursor: pointer;
+  height: 4rem;
+  width: 7rem;
+}
+.iconIMG {
+  margin-top: 1rem;
   cursor: pointer;
   height: 2rem;
 }
@@ -421,7 +433,8 @@ article .icon {
 }
 
 .email-icon {
-  height: 2.5rem;
+  height: 8.5rem;
+  width: 8.5rem;
 }
 
 /* FOOTER SECTION */
